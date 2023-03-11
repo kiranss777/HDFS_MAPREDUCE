@@ -1,2 +1,1 @@
-# HDFS_MAPREDUCE
-HDFS MAP-REDUCE YAMR
+# Distribute File System Using Python
